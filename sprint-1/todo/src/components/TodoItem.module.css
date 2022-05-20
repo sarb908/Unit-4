@@ -1,0 +1,31 @@
+.strike {
+  text-decoration: line-through;
+}
+li {
+  background-color: white;
+  width: 100%;
+  margin: 10px 0;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  font-size: 32px;
+  font-weight: 400;
+}
+li input {
+  width: 32px;
+  height: 32px;
+  accent-color: cyan;
+}
+.inputed:checked {
+  width: 32px;
+  height: 32px;
+  accent-color: #7f7bff;
+}
+.inputeds:checked {
+  width: 32px;
+  height: 32px;
+  accent-color: #87ffc5;
+  border: none;
+}
