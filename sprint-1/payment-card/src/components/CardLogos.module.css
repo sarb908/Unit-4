@@ -1,0 +1,20 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30%;
+}
+.logo img {
+  display: block;
+  width: 55%;
+  margin: auto;
+}
+.logo button {
+  border: none;
+  cursor: pointer;
+}
+.logo svg {
+  width: 32px;
+  height: 32px;
+  fill: black;
+}
