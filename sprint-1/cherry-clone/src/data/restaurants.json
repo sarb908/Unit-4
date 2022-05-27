@@ -1,0 +1,202 @@
+[
+  {
+    "image": "assets/restaurant1.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.3",
+    "deliveryTimings": "33 MINS",
+    "cost-for-two": "200",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    }
+  },
+  {
+    "image": "assets/restaurant2.jpeg",
+    "name": "BDAF",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "250",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    }
+  },
+  {
+    "image": "assets/restaurant3.jpeg",
+    "name": "sfcv",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "120",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    }
+  },
+  {
+    "image": "assets/restaurant4.jpeg",
+    "name": "njfvjsdj",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "2",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "320",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    }
+  },
+  {
+    "image": "assets/restaurant5.jpeg",
+    "name": "yrhae",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.7",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "450",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    }
+  },
+  {
+    "image": "assets/restaurant6.jpeg",
+    "name": "nggbdf",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.5",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "410",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    }
+  },
+  {
+    "image": "assets/restaurant7.jpeg",
+    "name": "mamore",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.9",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "650",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    }
+  },
+  {
+    "image": "assets/restaurant8.jpeg",
+    "name": "kmlghhlkm",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.6",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "256",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    }
+  },
+  {
+    "image": "assets/restaurant9.jpeg",
+    "name": "rntdger",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.3",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "350",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    }
+  },
+  {
+    "image": "assets/restaurant10.jpeg",
+    "name": "vdsvcs",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.4",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "250",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    }
+  }
+]
