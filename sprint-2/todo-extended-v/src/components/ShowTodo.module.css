@@ -1,0 +1,30 @@
+.button {
+  width: 90%;
+
+  padding: 10px 10px;
+  font-size: 32px;
+  font-weight: 400;
+  border-radius: 10px;
+  border: none;
+  width: 80%;
+  margin: 20px auto;
+}
+ul {
+  width: 90%;
+  margin: auto;
+  padding-left: 0;
+}
+.li {
+  background-color: white;
+  width: 100%;
+  margin: 10px 0;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: line-through;
+  opacity: 0.5;
+}

@@ -1,0 +1,46 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "task": "Push up",
+      "done": true,
+      "count": 2
+    },
+    {
+      "id": 2,
+      "task": "Pull Up",
+      "done": true,
+      "count": 3
+    },
+    {
+      "id": 3,
+      "task": "Squats",
+      "done": false,
+      "count": 1
+    },
+    {
+      "id": 4,
+      "task": "Sprint",
+      "done": false,
+      "count": 5
+    },
+    {
+      "id": 5,
+      "task": "Stairs",
+      "done": false,
+      "count": 200
+    },
+    {
+      "task": "sarb",
+      "id": 6
+    },
+    {
+      "task": "ritesh",
+      "id": 7
+    },
+    {
+      "task": "nrupul",
+      "id": 8
+    }
+  ]
+}

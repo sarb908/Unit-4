@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+.card {
+  width: 90%;
+
+  margin: 60px auto;
+  background-color: #cecece;
+  padding: 30px 20px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0.8;
+}
+input {
+  padding: 10px 10px;
+  font-size: 32px;
+  font-weight: 400;
+  border-radius: 10px;
+  border: none;
+  width: 80%;
+}
+.inputs {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.inputs button {
+  padding: 10px 20px;
+  font-size: 32px;
+  font-weight: 400;
+  border-radius: 10px;
+  border: none;
+}
