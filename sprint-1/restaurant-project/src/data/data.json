@@ -1,0 +1,202 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer4.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.3",
+    "deliveryTimings": "33 MINS",
+    "cost-for-two": "200",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer3.jpeg",
+    "name": "pizza",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "250",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer2.jpeg",
+    "name": "burger",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "120",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer4.jpeg",
+    "name": "pasta",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "2",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "320",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer3.jpeg",
+    "name": "butter chicken",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.7",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "450",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer4.jpeg",
+    "name": "biryani",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.5",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "410",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer2.jpeg",
+    "name": "samosa",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.9",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "650",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer4.jpeg",
+    "name": "dosa",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.6",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "256",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer1.jpeg",
+    "name": "spring roll",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "3.3",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "350",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/offer4.jpeg",
+    "name": "ice cream",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverages"
+    ],
+    "rating": "4.4",
+    "deliveryTimings": "30 MINS",
+    "cost-for-two": "250",
+    "offer": ["20% off", "Use TRYNEW"],
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    }
+  }
+]
