@@ -5,6 +5,7 @@ const Timer = () => {
   //   const [id, setid] = useState(null);
   const id = useRef();
   console.log(id);
+
   React.useEffect(() => {
     return () => {
       clearInterval(id.current);
