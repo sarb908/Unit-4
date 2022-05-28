@@ -37,7 +37,7 @@ const Timer = () => {
 
   return (
     <div>
-      <h1>TIMER : {value * 1000}</h1>
+      <h1>TIMER : {value}</h1>
       <input
         placeholder="seconds..."
         type="number"
