@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "name": "Jasmine",
+      "age": 32,
+      "address": "efnjfe",
+      "department": "Tech",
+      "salary": "80425808",
+      "martialStatus": "married",
+      "img": "./gr/gw"
+    },
+    {
+      "name": "wq",
+      "age": "25",
+      "address": "village allowal po and tehsil, batala district gurdaspur",
+      "department": "HR",
+      "salary": "123",
+      "martialStatus": "married",
+      "img": "C:\\fakepath\\robots.txt",
+      "married": "married",
+      "id": 10
+    },
+    {
+      "name": "sarbjot singh",
+      "age": "25",
+      "address": "village allowal po and tehsil, batala district gurdaspur",
+      "department": "",
+      "salary": "1",
+      "martialStatus": "married",
+      "img": "",
+      "id": 11
+    },
+    {
+      "name": "sarbjot singh",
+      "age": "25",
+      "address": "village allowal po and tehsil, batala district gurdaspur",
+      "department": "",
+      "salary": "3112",
+      "martialStatus": "married",
+      "img": "",
+      "id": 12
+    },
+    {
+      "name": "sarbjot singh",
+      "age": "25",
+      "address": "village allowal po and tehsil, batala district gurdaspur",
+      "department": "",
+      "salary": "3112",
+      "martialStatus": "married",
+      "img": "",
+      "id": 13
+    }
+  ]
+}
